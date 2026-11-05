@@ -38,7 +38,7 @@ ssh -i ~/mithril-bkc-probe-training.pem ubuntu@18.237.174.127
 cd /home/ubuntu/
 
 # Option 1: Use Personal Access Token (Recommended)
-git clone https://github.com/CharlieChenyuZhang/agency-chatbot-llm-dashboard.git
+git clone https://github.com/thechenyuzhang/agency-chatbot-llm-dashboard.git
 cd agency-chatbot-llm-dashboard
 
 # Setup Python virtual environment (venv approach)
@@ -715,7 +715,7 @@ You'll end up with a fully functional behavioral traits detection system that ca
 ```bash
 # Setup
 ssh -i ~/mithril-bkc-probe-training.pem ubuntu@34.215.182.124
-git clone https://github.com/charliechenyuzhang/agency-chatbot-llm-dashboard.git
+git clone https://github.com/thechenyuzhang/agency-chatbot-llm-dashboard.git
 python3 -m venv behavioral-traits-env
 source behavioral-traits-env/bin/activate
 
