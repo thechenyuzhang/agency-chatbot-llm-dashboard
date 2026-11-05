@@ -1,4 +1,4 @@
-git clone https://github.com/CharlieChenyuZhang/agency-chatbot-llm-dashboard.git
+git clone https://github.com/thechenyuzhang/agency-chatbot-llm-dashboard.git
 
 cd agency-chatbot-llm-dashboard
 
